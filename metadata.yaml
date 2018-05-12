@@ -1,0 +1,27 @@
+_repo: Nurmeksen-kapina--Historiallinen-kertomus-It--Suomesta_16315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bergman, Johan Albert
+    alias: Bergman, J. A.
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '6615'
+    url: http://www.gutenberg.org/2009/agents/6615
+description: ''
+gutenberg_issued: '2005-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16315'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PH'
+title: 'Nurmeksen kapina: Historiallinen kertomus Itä-Suomesta'
+url: http://www.gutenberg.org/ebooks/16315
